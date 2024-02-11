@@ -33,6 +33,7 @@
     border: 1px solid black;
   
     /* Step 6: Rounded corners for each li element */
+    border-radius: 8px;
   
     /* Step 7: Set list-style-type property to None for each li element  */
 }
