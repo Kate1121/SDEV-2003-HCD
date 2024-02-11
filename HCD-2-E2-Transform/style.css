@@ -30,6 +30,7 @@
     margin: 10px;
     
     /* Step 5: Border for each li element */
+    border: 1px solid black;
   
     /* Step 6: Rounded corners for each li element */
   
