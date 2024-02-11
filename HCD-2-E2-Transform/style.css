@@ -52,5 +52,6 @@
     font-size: 20px;
     font-weight: bold;
   
-/* Ensure smooth transition for font size and weight - combined with Step 10 */
+    /* Ensure smooth transition for font size and weight - combined with Step 10 */
+    transition: 0.3s ease;
 }
