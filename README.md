@@ -4,3 +4,5 @@ In the HCD-1-E1-Bare Bones Template folder, I created a template for building a 
 I created a form in the my-restaurant.html file so that users can enter and submit the necessary information to book a table at My Restaurant.
 
 In the HCD-2-E1-Layout folder, I incorporated the CSS flexbox layout into the header and footer sections and the CSS grid layout into the main content and sidebar sections of a webpage.
+
+In the HCD-2-E2-Transform folder, I applied CSS effects to list items and altered the appearance of list items in a webpage.
