@@ -17,6 +17,7 @@
   
 .items li {
     /* Step 1: Set font size for all li elements within .items */
+    font-size: 18px;
   
     /* Step 2: Change text color for all li elements */
   
