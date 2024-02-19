@@ -6,3 +6,6 @@ I created a form in the my-restaurant.html file so that users can enter and subm
 In the HCD-2-E1-Layout folder, I incorporated the CSS flexbox layout into the header and footer sections and the CSS grid layout into the main content and sidebar sections of a webpage.
 
 In the HCD-2-E2-Transform folder, I applied CSS effects to list items and altered the appearance of list items in a webpage.
+
+In the HCD-3-E-Media Queries folder, I specified CSS rules that would alter the styling of a webpage depending on a device's screen size.
+
